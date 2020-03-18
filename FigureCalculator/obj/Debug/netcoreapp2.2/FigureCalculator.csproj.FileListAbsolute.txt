@@ -1,0 +1,11 @@
+c:\users\stoyan\source\repos\FigureCalculator\FigureCalculator\bin\Debug\netcoreapp2.2\FigureCalculator.deps.json
+c:\users\stoyan\source\repos\FigureCalculator\FigureCalculator\bin\Debug\netcoreapp2.2\FigureCalculator.runtimeconfig.json
+c:\users\stoyan\source\repos\FigureCalculator\FigureCalculator\bin\Debug\netcoreapp2.2\FigureCalculator.runtimeconfig.dev.json
+c:\users\stoyan\source\repos\FigureCalculator\FigureCalculator\bin\Debug\netcoreapp2.2\FigureCalculator.dll
+c:\users\stoyan\source\repos\FigureCalculator\FigureCalculator\obj\Debug\netcoreapp2.2\FigureCalculator.csprojResolveAssemblyReference.cache
+c:\users\stoyan\source\repos\FigureCalculator\FigureCalculator\obj\Debug\netcoreapp2.2\FigureCalculator.csproj.CoreCompileInputs.cache
+c:\users\stoyan\source\repos\FigureCalculator\FigureCalculator\obj\Debug\netcoreapp2.2\FigureCalculator.AssemblyInfoInputs.cache
+c:\users\stoyan\source\repos\FigureCalculator\FigureCalculator\obj\Debug\netcoreapp2.2\FigureCalculator.AssemblyInfo.cs
+c:\users\stoyan\source\repos\FigureCalculator\FigureCalculator\bin\Debug\netcoreapp2.2\FigureCalculator.pdb
+c:\users\stoyan\source\repos\FigureCalculator\FigureCalculator\obj\Debug\netcoreapp2.2\FigureCalculator.dll
+c:\users\stoyan\source\repos\FigureCalculator\FigureCalculator\obj\Debug\netcoreapp2.2\FigureCalculator.pdb
